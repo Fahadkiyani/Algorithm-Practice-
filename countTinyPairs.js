@@ -14,7 +14,7 @@ function countTinyPairs(a, b, k) {
         }
 
     }
-    console.log(tinypairs);
+    return tinypairs;
 }
 
 countTinyPairs(a, b, k)
